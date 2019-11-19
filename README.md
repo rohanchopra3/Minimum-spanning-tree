@@ -49,6 +49,7 @@ You can use random.py file to create a random list of values and the format it a
 
  
 ## Screenshots
-  
-  
+![ss 1](https://github.com/rohanchopra3/Minimum-spanning-tree/blob/master/Images/Screenshot%202019-11-17%20at%2011.05.57%20PM.png)
+
+![ss 1](https://github.com/rohanchopra3/Minimum-spanning-tree/blob/master/Images/Screenshot%202019-11-17%20at%2011.06.00%20PM.png)
   
