@@ -2,6 +2,9 @@
 
 By ROHAN CHOPRA 
 
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
+
 This has been project created as a Programming project submission for CSE -5311- 001 Design and analysis of algorithm. From the given project choices, I have chosen to implement and compare Minimum Spanning Trees Algorithm. This is a GUI python-based application that allows a user to perform create a Minimum Spanning Tree using either prims or Kruskal algorithm.
 
 ## Tools used:
